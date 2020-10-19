@@ -1,0 +1,15 @@
+C:\Users\BEN\Desktop\Account\Account\Account\Account\bin\Debug\Account.exe.config
+C:\Users\BEN\Desktop\Account\Account\Account\Account\bin\Debug\Account.exe
+C:\Users\BEN\Desktop\Account\Account\Account\Account\bin\Debug\Account.pdb
+C:\Users\BEN\Desktop\Account\Account\Account\Account\bin\Debug\Account.xml
+C:\Users\BEN\Desktop\Account\Account\Account\Account\bin\Debug\Guna.UI.dll
+C:\Users\BEN\Desktop\Account\Account\Account\Account\bin\Debug\MySql.Data.dll
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.vbprojAssemblyReference.cache
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.Form1.resources
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.Resources.resources
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.vbproj.GenerateResource.cache
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.vbproj.CoreCompileInputs.cache
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.vbproj.CopyComplete
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.exe
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.xml
+C:\Users\BEN\Desktop\Account\Account\Account\Account\obj\Debug\Account.pdb
