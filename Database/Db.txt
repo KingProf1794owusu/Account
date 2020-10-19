@@ -1,0 +1,7 @@
+create database if not exists Finance;
+use Finance;
+create table receipt_payment(PR int(10) not null, 
+Description varchar(45) not null, Budget numeric(17,2) not null, 
+Jan numeric(17,2) null, Feb numeric(17,2) null, Mar numeric(17,2) null,
+ April numeric(17,2) null, Total numeric(17,2) not null,
+Primary key(PR)) 
